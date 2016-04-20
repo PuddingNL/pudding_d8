@@ -34,7 +34,7 @@ xmlrpc.php
 /modules
 /profiles
 /scripts
-/themes
+#/themes
 
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
